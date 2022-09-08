@@ -1,5 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/bEs40jYsdQjmM/giphy-downsized-large.gif" width="100"/>
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate software developer from the United States, originally from Portugal</h3>
+</div>
 
 <p align="center">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=flipch&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
