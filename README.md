@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bEs40jYsdQjmM/giphy-downsized-large.gif" width="100"/>
+  <img src="https://media.giphy.com/media/bEs40jYsdQjmM/giphy-downsized.gif"/>
 <h1 align="center">Hi 👋, I'm Felipe</h1>
 <h3 align="center">A passionate software developer from the United States, originally from Portugal</h3>
 </div>
