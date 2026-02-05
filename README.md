@@ -1,6 +1,6 @@
 <div align="center">
 
-# Felipe Henriques
+# Felipe Heliszkowski
 
 **Backend Engineer @ Block** | Fintech · Distributed Systems · Cloud Native
 
