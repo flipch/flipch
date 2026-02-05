@@ -18,8 +18,8 @@
 
 ### Tech Stack
 
-**Languages:** Go · Java · TypeScript · Python
-**Infrastructure:** Kubernetes · Terraform · AWS · GCP
+**Languages:** Go · Java · TypeScript · Python<br>
+**Infrastructure:** Kubernetes · Terraform · AWS · GCP<br>
 **Data:** PostgreSQL · Kafka · Redis
 
 ### Currently
