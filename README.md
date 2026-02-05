@@ -1,14 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/bEs40jYsdQjmM/giphy-downsized.gif"/>
-    <div id="badges">
-      <a href="https://www.linkedin.com/in/felipech">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-      </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=flipch&style=flat-square&color=blue" alt=""/>
-  <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Felipe</h1>
-  <h3 align="center">A passionate software developer from the United States, originally from Portugal</h3>
+<div align="center">
+
+# Felipe Henriques
+
+**Backend Engineer @ Block** | Fintech · Distributed Systems · Cloud Native
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipech)
+
 </div>
 
-<p align="center">
-</p>
+---
+
+### What I Do
+
+- Build payment systems and financial infrastructure at scale
+- Design distributed systems for high availability and consistency
+- Cloud-native development (Kubernetes, AWS, GCP)
+
+### Tech Stack
+
+**Languages:** Go · Java · TypeScript · Python
+**Infrastructure:** Kubernetes · Terraform · AWS · GCP
+**Data:** PostgreSQL · Kafka · Redis
+
+### Currently
+
+- Building payments infrastructure at Block
+- Contributing to developer tooling
+
+---
+
+<div align="center">
+<sub>Seattle, WA · Originally from Portugal</sub>
+</div>
