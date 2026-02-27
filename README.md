@@ -2,7 +2,7 @@
 
 # Felipe Heliszkowski
 
-**Backend Engineer | AI - Fintech · Distributed Systems · Cloud Native
+**Backend Engineer** | AI - Fintech · Distributed Systems · Cloud Native
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipech)
 
