@@ -2,7 +2,7 @@
 
 # Felipe Heliszkowski
 
-**Backend Engineer @ Block** | Fintech · Distributed Systems · Cloud Native
+**Backend Engineer | AI - Fintech · Distributed Systems · Cloud Native
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipech)
 
@@ -12,6 +12,7 @@
 
 ### What I Do
 
+- Leverage AI to the full extent it currently allows, power user
 - Build payment systems and financial infrastructure at scale
 - Design distributed systems for high availability and consistency
 - Cloud-native development (Kubernetes, AWS, GCP)
